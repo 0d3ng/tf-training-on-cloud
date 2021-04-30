@@ -56,7 +56,7 @@ pytz==2018.4
 PyVCF==0.6.8
 PyYAML==3.13
 requests==2.22.0
-rsa==4.0
+rsa==4.7
 scikit-learn==0.20.3
 scipy==1.2.1
 six==1.12.0
